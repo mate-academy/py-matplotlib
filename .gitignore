@@ -6,3 +6,5 @@
 venv/
 .pytest_cache/
 **__pycache__/
+app/.ipynb_checkpoints/*
+data/.ipynb_checkpoints/*
