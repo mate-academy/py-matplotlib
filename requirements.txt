@@ -1,4 +1,4 @@
-pandas==1.4.3
-numpy==1.23.1
+pandas==2.2.3
+numpy==2.2.3
 jupyter==1.0.0
-matplotlib==3.7.2
+matplotlib==3.10.1
