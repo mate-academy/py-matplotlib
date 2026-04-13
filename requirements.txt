@@ -2,3 +2,5 @@ pandas
 numpy
 jupyter
 matplotlib
+
+black
